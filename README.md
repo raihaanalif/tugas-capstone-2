@@ -1,6 +1,5 @@
 # Data Overview
-Jadi data ini akan digunakan untuk menganalisis kepadatan pengguna TransJakarta berdasarkan waktu (seperti jam sibuk, hari kerja vs akhir pekan) dan rute (koridor tertentu) untuk mendapatkan wawasan yang berguna dalam perencanaan operasional dan pelayanan. 
-
+Jadi data ini akan digunakan untuk menganalisis kepadatan pengguna TransJakarta berdasarkan waktu untuk mendapatkan wawasan yang berguna dalam perencanaan operasional dan pelayanan. 
 
 # Data Cleansing Steps
 *1. Pengecekan Missing Value*
